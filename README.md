@@ -1,4 +1,3 @@
 # repo1
 
-testing gha trigger
-kjsd
+added workflow_call block in .yml file
